@@ -1,0 +1,17 @@
+# npm
+dist/
+node_modules/
+npm-debug.log
+package-lock.json
+stats.json
+
+# python
+recipe_saver.egg-info/
+__pycache__/
+.pyc
+
+.DS_Store
+
+.python-version
+
+.vscode
